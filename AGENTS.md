@@ -14,7 +14,8 @@ There is no build step. Preview HTML locally, run the available link/content che
 - Keep legal and support copy available in English and Hebrew when the app's primary audiences use both languages.
 
 ## Current state
-2026-10-21 · Codex · Active checkout `/Users/maormachni/Developer/keyquest-legal`, branch `main`, based on `e2c3aa3`. Existing MoveMash and WoodFit Puzzle pages are deployed. Laneway Escape support and privacy pages are being prepared from its current source and approved app icon; live deployment is not yet verified.
+2026-10-21 · Codex · Active checkout `/Users/maormachni/Developer/keyquest-legal`, branch `main`. Existing MoveMash and WoodFit Puzzle pages remain deployed. Laneway Escape has bilingual support and privacy pages at `/laneway-escape/`; its privacy policy and support contacts use `keyqueststudio1@gmail.com`. GitHub Pages publishes from `main`; the current contact-email update is prepared and awaiting deployment verification.
 
 ## Session log
+2026-10-21 · Codex · Updated the Laneway Escape support and privacy pages, plus the KeyQuest Studio index contact, to `keyqueststudio1@gmail.com` as requested. HTML parse and `git diff --check` passed; GitHub Pages deployment verification is pending.
 2026-10-21 · Codex · Created shared project instructions for the existing static legal site before adding Laneway Escape pages. Existing `main` was clean at `e2c3aa3`; deployment and new page content remain unverified.
