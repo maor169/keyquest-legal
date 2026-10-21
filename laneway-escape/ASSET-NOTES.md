@@ -1,0 +1,1 @@
+`logo.png` is copied from the Laneway Escape Unity project at `Assets/Brand/AppIcon-Approved-Driver-1024.png` (active source: `github.com/maor169/laneway-escape`, commit `93fe61b`). This original KeyQuest Studio app icon was created for Laneway Escape; it is not sourced from the photographed physical game or a third-party brand.
