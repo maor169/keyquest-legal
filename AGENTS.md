@@ -14,9 +14,12 @@ There is no build step. Preview HTML locally, run the available link/content che
 - Keep legal and support copy available in English and Hebrew when the app's primary audiences use both languages.
 
 ## Current state
+2026-11-20 · Antigravity · Added bilingual Zombie: Last Rescue support & privacy pages (`zombie-last-rescue/support.html`, `zombie-last-rescue/privacy.html`, `zombie-last-rescue/logo.png`, `zombie-last-rescue/styles.css`) and updated `index.html`.
+2026-11-18 · Antigravity · Added bilingual Dark Rift: Warhost support & privacy pages (`dark-rift/support.html`, `dark-rift/privacy.html`, `dark-rift/logo.png`, `dark-rift/styles.css`) and updated `index.html`, committed (`aff0930`) & pushed to `main`. Verified live HTTP 200 on both URLs.
 2026-10-21 · Codex · Active checkout /Users/maormachni/Developer/keyquest-legal, branch main. Existing MoveMash and WoodFit Puzzle pages remain deployed. Laneway Escape bilingual support/privacy pages are live. GitHub Pages deployment run 39630509493 completed successfully, and live English/Hebrew privacy/support pages show keyqueststudio1@gmail.com.
 
 ## Session log
+2026-11-18 · Antigravity · Added Dark Rift: Warhost bilingual privacy & support pages with its own icon (`Builds/DarkRift.iconset/icon_256x256.png`), pushed `aff0930` to `main`, verified live HTTP 200.
 2026-10-21 · Codex · Verified GitHub Pages run 39630509493 completed successfully. Live privacy and support pages return HTTP 200 and show keyqueststudio1@gmail.com in English and Hebrew; the studio index contact also uses the requested address.
 2026-10-21 · Codex · Updated the Laneway Escape support and privacy pages, plus the KeyQuest Studio index contact, to `keyqueststudio1@gmail.com` as requested. HTML parse and `git diff --check` passed; GitHub Pages deployment verification is pending.
 2026-10-21 · Codex · Created shared project instructions for the existing static legal site before adding Laneway Escape pages. Existing `main` was clean at `e2c3aa3`; deployment and new page content remain unverified.
